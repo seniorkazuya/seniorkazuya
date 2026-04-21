@@ -1,10 +1,13 @@
 # Hi, I'm Kazuya 👋
+Full Stack & AI Engineer building intelligent products with purpose.
 
-**Full Stack & AI Engineer building intelligent products with purpose.**
-
-- Building end-to-end products with web, backend, and AI
-- Interested in scalable systems, LLM apps, and automation
-- Philosophy: simplicity, usefulness, and real-world impact
+## Tech Stack
+`TypeScript` `React` `Next.js` `Node.js` `Python` `FastAPI` `PostgreSQL` `Docker` `AWS` `LLMs`
 
 ## Metrics
 ![Metrics](./github-metrics.svg)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniorkazuya&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorkazuya&layout=compact&theme=transparent)
